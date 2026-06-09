@@ -15,7 +15,7 @@ Tenho interesse em:
 
 Além disso, estou construindo a **Artech**, projeto voltado ao desenvolvimento de soluções digitais para pequenos negócios.
 
-## Tecnologias e Ferramentas
+ Ferramentas
 
 - Python
 - Java
