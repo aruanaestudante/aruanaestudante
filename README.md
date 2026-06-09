@@ -1,8 +1,28 @@
-### # # 🧑‍💻 Aruanã Souza
 
-**`Desenvolvedor FullStack`**
+# 👋 Olá, eu sou o Aruanã Souza
 
-Me chamo Aruanã Souza, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio em 2024, com o curso técnico em informática. Atualmente, estou cursando Ciências da Computação na UNISUL. Sempre gostei muito de tecnologia, eu tenho um canal no YouTube aonde posto videos sobre minha rotina como programador. Esté é o meu canal: "[Aru_dev](https://www.youtube.com/@Aru_dev)", e também através do Instagram, com o perfil chamado "[arusouza20_](https://www.instagram.com/arusouza20_)".
+- Estudante de Ciência da Computação na UNISUL.
+
+Atualmente atuo como estagiário de Infraestrutura de TI, desenvolvendo experiência prática em suporte, redes e automação.
+
+Tenho interesse em:
+
+-  Desenvolvimento com Python;
+-  Desenvolvimento com Java;
+-  Área de Dados;
+-  Automação de processos;
+-  Qualidade de Software (QA).
+
+Além disso, estou construindo a **Artech**, projeto voltado ao desenvolvimento de soluções digitais para pequenos negócios.
+
+## Tecnologias
+
+- Python
+- Java
+- HTML / CSS
+- Git & GitHub
+- Linux
+- Redes
 
 <p align="left">
     <a href="https://www.youtube.com/@Aru_dev?sub_confirmation=1">P
